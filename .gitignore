@@ -54,6 +54,6 @@ freeline.py
 freeline/
 freeline_project_description.json
 
-skeletonlayout/keystore.gradle
+localizednumberedittext/keystore.gradle
 .idea/caches/
 .idea/codeStyles/
